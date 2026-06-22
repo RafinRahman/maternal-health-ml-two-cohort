@@ -6,7 +6,9 @@ abstract: >
   Analysis code for: Machine learning for maternal health risk stratification
   using IoT-collected clinical datasets from Bangladesh: a two-cohort comparative
   analysis. Six ML classifiers applied to two independent Bangladeshi maternal
-  health datasets (UCI n=1,014; Mendeley n=1,186) with SHAP interpretability.
+  health datasets (UCI n=1,014, 6 features, 3-class; Mendeley n=1,186, 11 features, binary).
+  SHAP analysis identifies BMI, preexisting diabetes, and mental health as dominant
+  predictors in the extended dataset.
 authors:
   - family-names: Rahman
     given-names: Md Rafin
@@ -23,6 +25,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-06-22"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.20792062"
 repository-code: "https://github.com/RafinRahman/maternal-health-ml-two-cohort"
 keywords:
   - maternal health
@@ -35,6 +38,8 @@ keywords:
   - SHAP
   - gestational diabetes
   - BMI
+  - mental health
+  - two-cohort
 references:
   - type: dataset
     title: "UCI Maternal Health Risk Dataset"
