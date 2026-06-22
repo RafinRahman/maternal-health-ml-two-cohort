@@ -20,6 +20,9 @@ authors:
     email: dr.roseiqbal@gmail.com
     affiliation: "Shaheed Monsur Ali Medical College and Hospital, Dhaka, Bangladesh"
   - family-names: Rahman
+    given-names: Md Jubayar
+    affiliation: "Roboway Technologies, Dhaka, Bangladesh"
+  - family-names: Rahman
     given-names: Md Rofiqur
     affiliation: "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh"
 version: "1.0.0"
@@ -55,3 +58,4 @@ references:
     authors:
       - family-names: Mojumdar
         given-names: Mayen Uddin
+
