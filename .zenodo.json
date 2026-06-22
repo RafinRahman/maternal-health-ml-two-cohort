@@ -47,5 +47,6 @@
       "resource_type": "dataset",
       "scheme": "doi"
     }
-  ]
+  ],
+  "doi": "10.5281/zenodo.20792062"
 }
