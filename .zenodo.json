@@ -1,0 +1,51 @@
+{
+  "title": "maternal-health-ml-two-cohort: Analysis code for machine learning-based maternal health risk stratification using two IoT-collected Bangladeshi datasets",
+  "description": "Analysis code for: Machine learning for maternal health risk stratification using IoT-collected clinical datasets from Bangladesh: a two-cohort comparative analysis. Six ML classifiers (Random Forest, XGBoost, LightGBM, Decision Tree, Logistic Regression, SVM) applied to two independent datasets (UCI n=1,014, 6 features, 3-class; Mendeley n=1,186, 11 features, binary). SHAP analysis identifies BMI, preexisting diabetes, and mental health as dominant predictors in the extended dataset.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "maternal health",
+    "machine learning",
+    "XGBoost",
+    "LightGBM",
+    "risk stratification",
+    "Bangladesh",
+    "IoT",
+    "SHAP",
+    "gestational diabetes",
+    "BMI",
+    "mental health",
+    "two-cohort"
+  ],
+  "creators": [
+    {
+      "name": "Rahman, Md Rafin",
+      "affiliation": "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh",
+      "orcid": "0009-0007-5366-0175"
+    },
+    {
+      "name": "Rose, Jafren Iqbal",
+      "affiliation": "Shaheed Monsur Ali Medical College and Hospital, Dhaka, Bangladesh"
+    },
+    {
+      "name": "Rahman, Md Rofiqur",
+      "affiliation": "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.24432/C5DP5D",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.17632/p5w98dvbbk.1",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ]
+}

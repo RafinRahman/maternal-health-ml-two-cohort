@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the manuscript and this software deposit."
+type: software
+title: "maternal-health-ml-two-cohort"
+abstract: >
+  Analysis code for: Machine learning for maternal health risk stratification
+  using IoT-collected clinical datasets from Bangladesh: a two-cohort comparative
+  analysis. Six ML classifiers applied to two independent Bangladeshi maternal
+  health datasets (UCI n=1,014; Mendeley n=1,186) with SHAP interpretability.
+authors:
+  - family-names: Rahman
+    given-names: Md Rafin
+    email: mrahman@ideshi.org
+    orcid: "https://orcid.org/0009-0007-5366-0175"
+    affiliation: "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh"
+  - family-names: Rose
+    given-names: Jafren Iqbal
+    email: dr.roseiqbal@gmail.com
+    affiliation: "Shaheed Monsur Ali Medical College and Hospital, Dhaka, Bangladesh"
+  - family-names: Rahman
+    given-names: Md Rofiqur
+    affiliation: "Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh"
+version: "1.0.0"
+date-released: "2026-06-22"
+license: CC-BY-4.0
+repository-code: "https://github.com/RafinRahman/maternal-health-ml-two-cohort"
+keywords:
+  - maternal health
+  - machine learning
+  - XGBoost
+  - LightGBM
+  - risk stratification
+  - Bangladesh
+  - IoT
+  - SHAP
+  - gestational diabetes
+  - BMI
+references:
+  - type: dataset
+    title: "UCI Maternal Health Risk Dataset"
+    doi: "10.24432/C5DP5D"
+    authors:
+      - family-names: Ahmed
+        given-names: Marzia
+      - family-names: Kashem
+        given-names: Mohammod Abul
+  - type: dataset
+    title: "Maternal Health Risk Assessment Dataset"
+    doi: "10.17632/p5w98dvbbk.1"
+    authors:
+      - family-names: Mojumdar
+        given-names: Mayen Uddin
