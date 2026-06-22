@@ -1,6 +1,6 @@
 # Maternal Health Risk Stratification — Two-Cohort ML Analysis
 
-[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI_PLACEHOLDER.svg)](https://doi.org/ZENODO_DOI_PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20792062.svg)](https://doi.org/10.5281/zenodo.20792062)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Overview
@@ -81,4 +81,4 @@ This work is licensed under [Creative Commons Attribution 4.0 International (CC 
 
 If you use this code, please cite the associated manuscript (DOI to be updated upon publication) and the Zenodo code deposit:
 
-[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI_PLACEHOLDER.svg)](https://doi.org/ZENODO_DOI_PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20792062.svg)](https://doi.org/10.5281/zenodo.20792062)
